@@ -18,7 +18,7 @@ Production-oriented AI systems where correctness matters more than novelty.
 ## Flagship Projects
 | Project | Purpose |
 |-------|------|
-| LedgerLens | Insolvency intelligence system over UK public records |
+| Corveris | Insolvency intelligence system over UK public records |
 | Drawing Revision Extractor | Engineering document extraction & validation |
 | Knowledge Copilot | Internal operational support assistant |
 
